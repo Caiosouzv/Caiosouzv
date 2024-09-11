@@ -44,8 +44,14 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/caiosouzv/caiosouzv/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiosouzv&radius=16&theme=elegant&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiosouzv&radius=16&theme=elegant&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
