@@ -1,8 +1,7 @@
-# 💫 About Me:
-Hey, I'm Caio Souza front-end developer
+
+E ai, sou Caio Souza desenvolvedor front-end 
 
 
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaiosouzv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/caiosouzv) 
 
 # 💻 Tech Stack:
