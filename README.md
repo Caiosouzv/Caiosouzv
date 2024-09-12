@@ -1,6 +1,6 @@
 
 
-<h2 align="left">Hey 👋 , I'm Caio Souza front-end developer</h2>
+<h2 align="left">Hey 👋 , I'm Caio Souza front-end developer!</h2>
 
 ###
 
