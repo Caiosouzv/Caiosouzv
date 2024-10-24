@@ -44,6 +44,13 @@
   </a>
 </div>
 
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+
+<img src="https://raw.githubusercontent.com/Caiosouzv/Caiosouzv/output/snake.svg" alt="Snake animation" />
+
+###
+
 ###
 
 <div align="center">
