@@ -1,12 +1,8 @@
 <h2 align="left">Hey 👋, I'm Caio Souza, a Front-end Developer!</h2>
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Caiosouzv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Caiosouzv&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Caiosouzv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Caiosouzv&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <div align="left" style="margin-top: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
