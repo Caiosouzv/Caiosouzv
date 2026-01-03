@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋, I'm Caio Souza, a Front-end Developer!</h2>
+<h2 align="left">Hey 👋, I'm Caio Souza, a Software Developer!</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=Caiosouzv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Caiosouzv&theme=dark&hide_border=false)<br/>
