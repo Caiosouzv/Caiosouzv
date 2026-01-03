@@ -38,7 +38,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin logo" />
   </a>
 </div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caiosouzv&radius=16&theme=elegant&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph" />
-</div>
