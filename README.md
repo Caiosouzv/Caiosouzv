@@ -1,8 +1,8 @@
 <h2 align="left">Hey 👋, I'm Caio Souza, a Front-end Developer!</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiosouzv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiosouzv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Caiosouzv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caiosouzv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <div align="left" style="margin-top: 20px;">
@@ -35,11 +35,11 @@
   <a href="https://www.instagram.com/kaiosouzv/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="35" alt="instagram logo" />
   </a>
-  <a href="https://www.linkedin.com/in/caiosouzv/" target="_blank">
+  <a href="https://www.linkedin.com/in/Caiosouzv/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin logo" />
   </a>
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiosouzv&radius=16&theme=elegant&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caiosouzv&radius=16&theme=elegant&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph" />
 </div>
