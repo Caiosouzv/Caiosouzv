@@ -1,8 +1,10 @@
 <h2 align="left">Hey 👋, I'm Caio Souza, a Front-end Developer!</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caiosouzv&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caiosouzv&show_icons=true&theme=dark&layout=compact&cache_seconds=1800" height="150" alt="languages graph" />
+ # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Caiosouzv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Caiosouzv&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Caiosouzv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 <div align="left" style="margin-top: 20px;">
