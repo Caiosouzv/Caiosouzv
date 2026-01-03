@@ -1,17 +1,10 @@
 <h2 align="left">Hey 👋, I'm Caio Souza, a Front-end Developer!</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Caiosouzv&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /></td>
-      <td><img src="https://nirzak-streak-stats.vercel.app/?user=Caiosouzv&theme=dark&hide_border=false" /></td>
-    </tr>
-  </table>
+  ![](https://github-readme-stats.vercel.app/api?username=Caiosouzv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Caiosouzv&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Caiosouzv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiosouzv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
-  ### 🔝 Top Contributed Repo
-  <img src="https://github-contributor-stats.vercel.app/api?username=Caiosouzv&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
 <div align="left" style="margin-top: 20px;">
